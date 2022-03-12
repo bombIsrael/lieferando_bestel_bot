@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\source\lfmacher\lfmacher\bin\Release\lfmacher.exe.config
+C:\Users\Admin\Desktop\source\lfmacher\lfmacher\bin\Release\lfmacher.exe
+C:\Users\Admin\Desktop\source\lfmacher\lfmacher\bin\Release\lfmacher.pdb
+C:\Users\Admin\Desktop\source\lfmacher\lfmacher\bin\Release\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\source\lfmacher\lfmacher\obj\Release\lfmacher.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\source\lfmacher\lfmacher\obj\Release\lfmacher.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\source\lfmacher\lfmacher\obj\Release\lfmacher.Form1.resources
+C:\Users\Admin\Desktop\source\lfmacher\lfmacher\obj\Release\lfmacher.Properties.Resources.resources
+C:\Users\Admin\Desktop\source\lfmacher\lfmacher\obj\Release\lfmacher.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\source\lfmacher\lfmacher\obj\Release\lfmacher.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\source\lfmacher\lfmacher\obj\Release\lfmacher.csproj.CopyComplete
+C:\Users\Admin\Desktop\source\lfmacher\lfmacher\obj\Release\lfmacher.exe
+C:\Users\Admin\Desktop\source\lfmacher\lfmacher\obj\Release\lfmacher.pdb
+C:\Users\Admin\Desktop\source\lfmacher\lfmacher\bin\Release\Newtonsoft.Json.xml
